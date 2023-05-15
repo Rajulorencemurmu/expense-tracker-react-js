@@ -1,3 +1,10 @@
+It should look something like this..
+
+
+<img width="960" alt="Screenshot 2023-05-05 165300" src="https://github.com/Rajulorencemurmu/expense-tracker-react-js/assets/101400321/6aedcf3c-9b69-4730-a5a9-7a30e42275e7">
+
+<img width="960" alt="Screenshot 2023-05-05 165329" src="https://github.com/Rajulorencemurmu/expense-tracker-react-js/assets/101400321/e7915732-8da4-459c-9602-d278758bfe3b">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
